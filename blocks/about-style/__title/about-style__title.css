@@ -1,0 +1,8 @@
+.about-style__title {
+    width: 580px;
+    background-image: url(../../../images/Shtrich.svg);
+    z-index: 1;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 132px;
+}

@@ -1,0 +1,11 @@
+.lead__date {
+    display: flex;
+    max-width: 280px;
+    justify-content: space-between;
+    font-family: 'Open Sans';
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    padding-bottom: 42px;
+    margin: 0 0 0 174px;
+}

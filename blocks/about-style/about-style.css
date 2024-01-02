@@ -1,0 +1,7 @@
+.about-style {
+    display: flex;
+    flex-direction: column;
+    margin-left: 130px;
+    margin-bottom: 130px;
+    margin-right: 130px;
+}

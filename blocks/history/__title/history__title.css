@@ -1,0 +1,7 @@
+.histoty__title {
+    max-width: 580px;
+    background-image: url(../../../images/White-shtich.svg);
+    z-index: 1;
+    background-position: center;
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,5 @@
+.about-style__text_right {
+    order: 1;
+    align-self: flex-end;
+    margin-right: 130px;
+}

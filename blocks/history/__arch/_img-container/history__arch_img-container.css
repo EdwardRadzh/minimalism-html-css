@@ -1,0 +1,4 @@
+.history__arch_img-container {
+    display: flex;
+    flex-direction: column;
+}

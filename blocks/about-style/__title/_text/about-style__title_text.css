@@ -1,0 +1,10 @@
+.about-style__title_text {
+    z-index: 0;
+    color: white;
+    font-family: 'Poiret One';
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 120px;
+    text-align: center;
+    margin: 0;
+}
